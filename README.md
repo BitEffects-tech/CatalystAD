@@ -15,7 +15,7 @@ Next create the build folder and prepare the makefile
 ```
 mkdir build
 cd build
-cmake ...
+cmake ..
 ```
 
 To build and run the test cases
