@@ -1,0 +1,8 @@
+/build/
+/external/
+/.cache/
+*.o
+*.so
+*.exe
+*~
+.clangd
